@@ -1,0 +1,17 @@
+Dbname : blog
+table1->login
+data1->i. user_id(int(10),primary_key)
+           ii.user_name(varchar(100))
+           iii. user_email(varchar(100))
+           iv. user_password(varchar(100))
+
+table2-> posts
+data2   ->
+i. post_id int(10)
+ii. post_title varchar(1000)
+iii. post_date  date
+iv. post_author  varchar(1000)
+v. post_image text
+vi. post_keywords	  text
+vii. post_content longtext
+vii. category varchar(100)
