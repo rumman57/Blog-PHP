@@ -10,7 +10,9 @@ This is my first blog site. Simple project using Raw PHP.
 
 Admin Panel Link: default-path/admin/admin.php  
 
-**Admin Panel => Email: 'rumman142228@gmail.com' & Password: 'rumman57'
+**Admin Panel => Email: 'rumman142228@gmail.com' & Password: 'rumman57'**
+
+Visit my website: [www.rh-rumman.me](http://www.rh-rumman.me)
 
 #### That's All. Thanks.
 
